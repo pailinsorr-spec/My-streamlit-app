@@ -1,0 +1,5 @@
+#บอกว่าเซิร์เวอร์ต้องการlibrary อะไรบ้างในการรันโปรเจคนี้
+streamlit
+pandas
+google-generativeai
+
